@@ -1,2 +1,2 @@
-# portafolio
-My portafolio based in pokemon using React JS
+# My briefcase
+My briefcase based in pokemon using React JS
